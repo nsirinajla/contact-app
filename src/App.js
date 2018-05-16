@@ -9,6 +9,7 @@ class App extends Component {
     return (
       <Router>
       <div className="App">
+      <h1>Contact App </h1>
            <Link to="/contact">
            <input type='button' value="Contact List"/>
            </Link>
